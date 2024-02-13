@@ -1,0 +1,22 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.text-primary{
+    color: #fd6e0a;
+}
+.btn-primary{
+    
+    border-radius: 5px;
+    background-color: #fd6e0a;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 10px 15px;
+}
+.banner{
+    display: flex;
+}
+.profile-pic{
+    width: 500px;
+}
